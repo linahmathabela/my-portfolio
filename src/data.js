@@ -28,7 +28,7 @@ export const products = [
     {
       id: 5,
       img: `${weather}`,
-      link: "http://lama.dev",
+      link: "https://linahmathabela.github.io/weather-app/",
     },
     {
       id: 6,
