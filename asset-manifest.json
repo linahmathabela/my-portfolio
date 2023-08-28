@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.2db32cf5.css",
+    "main.js": "/my-portfolio/static/js/main.df0f07cf.js",
+    "static/media/search-up.png": "/my-portfolio/static/media/search-up.d9febea2af0b71e5b6a7.png",
+    "static/media/calculator.png": "/my-portfolio/static/media/calculator.63e3acb60618184e91a4.png",
+    "static/media/weather.png": "/my-portfolio/static/media/weather.e5ffbf6cf92e54af46a2.png",
+    "static/media/cart.png": "/my-portfolio/static/media/cart.b5b79763c5fa5ee66cd0.png",
+    "static/media/rock-paper-scissors.png": "/my-portfolio/static/media/rock-paper-scissors.672a694d58782bd66d0e.png",
+    "static/media/chat-app.png": "/my-portfolio/static/media/chat-app.db98723dfcb145c2f8f4.png",
+    "static/media/award.png": "/my-portfolio/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/my-portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/my-portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/phone.png": "/my-portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.2db32cf5.css.map": "/my-portfolio/static/css/main.2db32cf5.css.map",
+    "main.df0f07cf.js.map": "/my-portfolio/static/js/main.df0f07cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db32cf5.css",
+    "static/js/main.df0f07cf.js"
+  ]
+}
