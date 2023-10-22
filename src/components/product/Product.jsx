@@ -1,8 +1,12 @@
 import "./product.css";
 
-const Product = ({img,link}) => {
+const Product = ({img,link, disc}) => {
   return (
+    <div className="n">
+
+
     <div className="p">
+      
       <div className="p-browser">
         <div className="p-circle"></div>
         <div className="p-circle"></div>
@@ -12,6 +16,12 @@ const Product = ({img,link}) => {
         <img src={img} alt="" className="p-img" />
       </a>
     </div>
+      <p>{disc}</p>
+      
+    </div>
+        
+     
+      
   );
 };
 
